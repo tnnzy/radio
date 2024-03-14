@@ -6,50 +6,32 @@ https://live.radiosun.ro/sunfm
 https://streamx.rph.ro:8100/relay
 ## RadioPlay
 http://live.playradio.org:9090/90HD
-## RodioPlay Cafe
-http://live.playradio.org:9090/CafeHD
 ## RadioPlay Urban
 http://live.playradio.org:9090/UrbanHD
 ## Kiss FM
 https://live.kissfm.ro/kissfm.aacp
-## Radio Select
-http://air.broadcastinggroup.ro:80/upradio
 ## MB Radio
 http://s33.myradiostream.com:16150
 ## 90 Energy
 https://s11.ssl-stream.com/ssl/90s_energy?mp=/stream
 ## Capital FM
 http://manele.capitalfm.ro:8020/
-## City Radio 
-http://live.city-radio.ro:8800/
-## EBS
-https://azura.ebsmedia.ro/listen/music/music128.mp3
 ## EBS Romanian Gold
 https://azura.ebsmedia.ro/listen/romaniangold/romaniangold128.mp3
-## Europa FM
-https://astreaming.edi.ro:8443/EuropaFM_aac
-## Free Fm 
-https://rocafmadrid.radioca.st/
 ## Fun FM
 http://online.funfm.ro:8000/funfm.mp3
 ## Gherla FM
 http://89.39.189.52:8000/
-## Go Beach
-https://live.gofm.ro:2000/stream/goBEACH/stream.mp3
 ## Go FM
 https://live.gofm.ro:2000/stream/goFMro
-## Go Fresh
-https://live.gofm.ro:2000/stream/goFMFRESH/stream.mp3
 ## Gold FM
 http://80.86.106.110:8002/
 ## Go Space 
 https://live.gofm.ro:2000/stream/goSPACE/stream.mp3
-## Hot FM
+## Hit FM
 http://s3.myradiostream.com:4404/
 ## Impcat FM
 http://109.166.241.233:8500/
-## ItzyBitsy
-http://live.itsybitsy.ro:8000/itsybitsy
 ## Jurnal FM
 https://ssl.radios.show:7009/stream
 ## Kiss FM
@@ -58,17 +40,10 @@ https://live.kissfm.ro/kissfm.aacp
 https://live.magicfm.ro/magicfm.aacp
 ## Magic Party Mix
 https://live.magicfm.ro/magic.party.mix
-#MB Music Radio
+# MB Music Radio
 http://s33.myradiostream.com:16150/
-## MIDI FM
-## Radio Medias
-http://mediasfm.eushells.ro:8082/;stream.nsv
 ## Metronom FM
 http://86.123.134.70:8000/metronom
-## Muscel FM
-http://188.27.135.199:8000/muscelfm
-## Chill FM
-http://edge126.rdsnet.ro:84/profm/music-fm.mp3
 ## Napoca FM
 https://streaming.napocalive.ro/napoca-fm
 ## National FM
@@ -87,8 +62,6 @@ http://edge126.rdsnet.ro:84/profm/profm.mp3
 http://live.radioprob.ro:8888/stream
 ## Radio Romance21
 https://free.rcast.net/200392
-## Radio 1 FM
-https://stream-162.zeno.fm/ekrzffgjb4ktv?zs=ZJqj6lWMQ1OA86ywGtAwsA
 ## Radio 1 Manele 
 http://radio1manele.no-ip.org:8000/
 ## Radio 3 Net
@@ -99,18 +72,12 @@ https://live.90hit.ro:8000/listen.mp3
 http://live.radiodeejay.hr:7002/
 ## Radio Aquila
 https://s10.webradio-hosting.com/proxy/schrteam/stream
-## Radi Blue
-https://asculta.muzicaok.de:8002/stream
 ## Radio Cartier
 https://live.radiocartier.eu:8048/stream
 ## Radio Romania Clasic
 http://37.251.146.169:8204/stream
-## Radio Clasic Rock
-http://37.251.146.169:7100/stream
 ## Radio Crazy
 http://live.crazyradio.ro:8024/stream
-## Radio Dacia Paradis
-https://streaming.napocalive.ro/radio-dacia02
 ## Radio Doza Urban
 https://stream-154.zeno.fm/cezx5b1nw98uv?zs=OqcEdzu2Q2KictWZElU1sA
 ## Radio Flo Manele
@@ -123,8 +90,6 @@ https://live.radio-impuls.ro/stream
 https://s12.myradiostream.com:17492/listen.mp3?nocache=1709934064
 ## Radio Koko
 https://radio.ch3.hu:8000/radiokoko.mp3
-## Radio Korupt
-http://stream-154.zeno.fm/ow1xlcqo3aatv?zs=GEO_OUP5R-u2nDWwPrFtYA
 ## Rado KPTV
 https://nl1.streamingpulse.com/ssl/KPTV/
 ## Radio Live 247
@@ -157,14 +122,10 @@ https://asculta.radioromanian.net/8800/stream
 http://ssl.radios.show:8006/
 ## Radio Space 90
 http://ingame.go.ro:8003/stream
-## Radio Tanara
-https://live.tananana.ro:8443/stream-48.aac
 ## Radio Tequila Dance
 http://dance.radiotequila.ro:7000/;stream.nsv
 ## Radio Tequila Petrecere
 http://petrecere.radiotequila.ro:7000/
-## Radio Test
-https://hs1.radiolibertymp.ro/listen/lmpchill/stream.mp3?refresh=1700228324588
 ## Radio Trib
 https://streams.radio.co/s78f983952/listen
 ## Radio Unirea
