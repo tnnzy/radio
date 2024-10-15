@@ -4,6 +4,8 @@ http://ssl.radios.show:8040/stream
 http://live.radiocafe.ro:8048/live.aac 
 # Deep House Radio
 http://live.dancemusic.ro:7000/stream
+# Rdio Disco Mix
+https://play.discomix.ro/8002/stream
 # DJ Radio Romania
 https://stream.djradio.ro:8000/stream.mp3
 # DuxRadio
