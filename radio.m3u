@@ -12,8 +12,14 @@ http://live.dancemusic.ro:7000/stream
 #EXTINF:-1,Rdio Disco Mix
 https://play.discomix.ro/8002/stream
 
+#EXTINF:-1,SunCity Radio
+https://s5.radio.co/s89712c75e/listen
+
 #EXTINF:-1,DJ Radio Romania
 https://stream.djradio.ro:8000/stream.mp3
+
+#EXTINF:-1,Radio Sun România
+https://live.radiosun.ro/sunfm
 
 #EXTINF:-1,DuxRadio
 https://radio.duxradio.ro/8002/stream
