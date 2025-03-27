@@ -81,6 +81,5 @@ http://sonic1-rbx.cloud-center.ro:8028/stream
 #EXTINF:-1,Radio FUNKY Dance Romania
 http://dance.radiofunky.ro:7500
 
-#EXTINF:-1,Radio HiT Dance
-http://live.radio-hit.ro:8500/stream
-
+#EXTINF:-1,Radio Pro-B
+https://live.radioprob.ro/8888/live
