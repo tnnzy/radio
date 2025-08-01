@@ -21,6 +21,9 @@ https://radio.duxradio.ro/8002/stream
 #EXTINF:-1,Forever Love
 http://sonic1-rbx.cloud-center.ro:8028/stream
 
+#EXTINF:-1,Radio VIP Diaspora
+http://46.105.122.141:13384/;?type=http&nocache=49489
+
 #EXTINF:-1,Hammer
 https://stream.rcs.revma.com/5ndtqgs5fd0uv
 
