@@ -21,8 +21,8 @@ https://radio.duxradio.ro/8002/stream
 #EXTINF:-1,Radio Pro-HiT Dance Clubbing Station
 https://dance.radioprohit.ro:8040/stream
 
-#EXTINF:-1,Radio VIP Diaspora
-http://46.105.122.141:13384/;?type=http&nocache=49489
+#EXTINF:-1,Radio Tineret
+https://radiotineret.ro/radiotineret.m3u
 
 #EXTINF:-1,AlfelFM
 https://azuralive.streams.ovh/listen/radioaltfel/radio.mp3
