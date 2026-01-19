@@ -36,6 +36,9 @@ http://live.adradio.ro:8894/128
 #EXTINF:-1,MegaHit
 https://air.broadcastinggroup.ro/MegaHit
 
+Radio Popular Oldies
+https://oldies.radiopopular.ro:8008/;
+
 #EXTINF:-1,Next Radio
 https://stream.nextradio.live/listen/nextradio/NextHD
 
