@@ -9,6 +9,9 @@ http://live.radiocafe.ro:8048/live.aac
 #EXTINF:-1 tvg-name="Deep House Radio" group-title="Radio",Deep House Radio
 http://live.dancemusic.ro:7000/stream
 
+#EXTINF:-1 tvg-name="Megarockradio" group-title="Radio",Megarockradio
+https://stream6.megarockradio.net/stream
+
 #EXTINF:-1 tvg-name="Radio Disco Mix" group-title="Radio",Radio Disco Mix
 https://play.discomix.ro/8002/stream
 
