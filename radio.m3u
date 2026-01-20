@@ -1,97 +1,97 @@
 #EXTM3U
 
-#EXTINF:-1,Radio Satelit
+#EXTINF:-1 tvg-name="Radio Satelit" group-title="Radio",Radio Satelit
 http://ssl.radios.show:8040/stream
 
-#EXTINF:-1,Radio Cafe
+#EXTINF:-1 tvg-name="Radio Cafe" group-title="Radio",Radio Cafe
 http://live.radiocafe.ro:8048/live.aac
 
-#EXTINF:-1,Deep House Radio
+#EXTINF:-1 tvg-name="Deep House Radio" group-title="Radio",Deep House Radio
 http://live.dancemusic.ro:7000/stream
 
-#EXTINF:-1,Radio Disco Mix
+#EXTINF:-1 tvg-name="Radio Disco Mix" group-title="Radio",Radio Disco Mix
 https://play.discomix.ro/8002/stream
 
-#EXTINF:-1,DJ Radio Romania
+#EXTINF:-1 tvg-name="DJ Radio Romania" group-title="Radio",DJ Radio Romania
 https://stream.djradio.ro:8000/stream.mp3
 
-#EXTINF:-1,DuxRadio
+#EXTINF:-1 tvg-name="DuxRadio" group-title="Radio",DuxRadio
 https://radio.duxradio.ro/8002/stream
 
-#EXTINF:-1,Radio Pro-HiT Dance Clubbing Station
+#EXTINF:-1 tvg-name="Radio Pro-HiT" group-title="Radio",Radio Pro-HiT Dance Clubbing Station
 https://dance.radioprohit.ro:8040/stream
 
-#EXTINF:-1,Radio Tineret
+#EXTINF:-1 tvg-name="Radio Tineret" group-title="Radio",Radio Tineret
 https://radiotineret.ro/radiotineret.m3u
 
-#EXTINF:-1,AlfelFM
+#EXTINF:-1 tvg-name="AlfelFM" group-title="Radio",AlfelFM
 https://azuralive.streams.ovh/listen/radioaltfel/radio.mp3
 
-#EXTINF:-1,Magic Party Mix
+#EXTINF:-1 tvg-name="Magic Party Mix" group-title="Radio",Magic Party Mix
 https://live.magicfm.ro/magic.party.mix
 
-#EXTINF:-1,Manele Premium
+#EXTINF:-1 tvg-name="Manele Premium" group-title="Radio",Manele Premium
 http://live.adradio.ro:8894/128
 
-#EXTINF:-1,MegaHit
+#EXTINF:-1 tvg-name="MegaHit" group-title="Radio",MegaHit
 https://air.broadcastinggroup.ro/MegaHit
 
-#EXTINF:-1,Radio Popular Oldies
+#EXTINF:-1 tvg-name="Radio Popular Oldies" group-title="Radio",Radio Popular Oldies
 https://oldies.radiopopular.ro:8008/;
 
-#EXTINF:-1,BadRock Hard&Heavy
+#EXTINF:-1 tvg-name="BadRock Hard&Heavy" group-title="Radio",BadRock Hard&Heavy
 https://play-radio0.jump.bg:7049/live
 
-#EXTINF:-1,Next Radio
+#EXTINF:-1 tvg-name="Next Radio" group-title="Radio",Next Radio
 https://stream.nextradio.live/listen/nextradio/NextHD
 
-#EXTINF:-1,Rockfm
+#EXTINF:-1 tvg-name="Rockfm" group-title="Radio",Rockfm
 https://live.rockfm.ro/rockfm.aacp
 
-#EXTINF:-1,Play 90's
+#EXTINF:-1 tvg-name="Play 90's" group-title="Radio",Play 90's
 https://live.playradio.org:8443/90HD
 
-#EXTINF:-1,PLAY RADIO HIT Romania
+#EXTINF:-1 tvg-name="PLAY RADIO HIT" group-title="Radio",PLAY RADIO HIT Romania
 http://stream.adradio.ro/8412
 
-#EXTINF:-1,PlayMusic FM
+#EXTINF:-1 tvg-name="PlayMusic FM" group-title="Radio",PlayMusic FM
 http://stream.playmusicfm.info:9000/stream
 
-#EXTINF:-1,Radio Aeroport
+#EXTINF:-1 tvg-name="Radio Aeroport" group-title="Radio",Radio Aeroport
 http://89.39.189.23:8000/stream
 
-#EXTINF:-1,Radio Alpin Romania
+#EXTINF:-1 tvg-name="Radio Alpin" group-title="Radio",Radio Alpin Romania
 https://asculta.ascultatare.ro/8042/stream
 
-#EXTINF:-1,Radio Bandit Romania
+#EXTINF:-1 tvg-name="Radio Bandit" group-title="Radio",Radio Bandit Romania
 http://live.radiobandit.ro:8000/stream.mp3
 
-#EXTINF:-1,Radio Deep Romania
+#EXTINF:-1 tvg-name="Radio Deep" group-title="Radio",Radio Deep Romania
 http://n0f.radiojar.com:80/8q8770pucfhvv
 
-#EXTINF:-1,Radio Digital Romania
+#EXTINF:-1 tvg-name="Radio Digital" group-title="Radio",Radio Digital Romania
 http://radio.sonicpanel.ro:8058/stream
 
-#EXTINF:-1,Radio Dreams Dance Romania
+#EXTINF:-1 tvg-name="Radio Dreams Dance" group-title="Radio",Radio Dreams Dance Romania
 http://radiodreams.g1.ro:3390/radiodreams.g1.ro
 
-#EXTINF:-1,Radio Dreams Clasic Oldies but Goldies
+#EXTINF:-1 tvg-name="Radio Dreams Clasic" group-title="Radio",Radio Dreams Clasic Oldies but Goldies
 http://radiodreams.g1.ro:3399/radiodreams.g1.ro
 
-#EXTINF:-1,Radio Etalon
+#EXTINF:-1 tvg-name="Radio Etalon" group-title="Radio",Radio Etalon
 http://asculta.radioetalon.ro:8030/stream
 
-#EXTINF:-1,Radio Fibra Romania
+#EXTINF:-1 tvg-name="Radio Fibra" group-title="Radio",Radio Fibra Romania
 http://live.dancemusic.ro:7000/stream
 
-#EXTINF:-1,Radio Forever Love
+#EXTINF:-1 tvg-name="Radio Forever Love" group-title="Radio",Radio Forever Love
 http://sonic1-rbx.cloud-center.ro:8028/stream
 
-#EXTINF:-1,Radio FUNKY Dance Romania
+#EXTINF:-1 tvg-name="Radio FUNKY Dance" group-title="Radio",Radio FUNKY Dance Romania
 http://dance.radiofunky.ro:7500
 
-#EXTINF:-1,Radio Pro-B
+#EXTINF:-1 tvg-name="Radio Pro-B" group-title="Radio",Radio Pro-B
 https://live.radioprob.ro/8888/live
 
-#EXTINF:-1,Radio Romance 21 Italo
+#EXTINF:-1 tvg-name="Radio Romance 21 Italo" group-title="Radio",Radio Romance 21 Italo
 https://live.radioromance21.ro:9950/stream
