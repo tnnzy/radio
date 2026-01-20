@@ -87,9 +87,6 @@ http://asculta.radioetalon.ro:8030/stream
 #EXTINF:-1 tvg-name="Radio Fibra" group-title="Radio",Radio Fibra Romania
 http://live.dancemusic.ro:7000/stream
 
-#EXTINF:-1 tvg-name="Radio Forever Love" group-title="Radio",Radio Forever Love
-http://sonic1-rbx.cloud-center.ro:8028/stream
-
 #EXTINF:-1 tvg-name="Radio FUNKY Dance" group-title="Radio",Radio FUNKY Dance Romania
 http://dance.radiofunky.ro:7500
 
