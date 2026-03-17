@@ -58,25 +58,19 @@ https://live.rockfm.ro/rockfm.aacp
 https://live.playradio.org:8443/90HD
 
 #EXTINF:-1 tvg-name="PLAY RADIO HIT" group-title="Radio",PLAY RADIO HIT Romania
-http://stream.adradio.ro/8412
+https://playradiohit90-adradio.radioca.st/stream
 
 #EXTINF:-1 tvg-name="PlayMusic FM" group-title="Radio",PlayMusic FM
-http://stream.playmusicfm.info:9000/stream
-
-#EXTINF:-1 tvg-name="Radio Aeroport" group-title="Radio",Radio Aeroport
-http://89.39.189.23:8000/stream
+https://free.rcast.net/400
 
 #EXTINF:-1 tvg-name="Radio Alpin" group-title="Radio",Radio Alpin Romania
 https://asculta.ascultatare.ro/8042/stream
 
 #EXTINF:-1 tvg-name="Radio Bandit" group-title="Radio",Radio Bandit Romania
-http://live.radiobandit.ro:8000/stream.mp3
+https://pro.radiobandit.ro/listen/bandit
 
 #EXTINF:-1 tvg-name="Radio Deep" group-title="Radio",Radio Deep Romania
-http://n0f.radiojar.com:80/8q8770pucfhvv
-
-#EXTINF:-1 tvg-name="Radio Digital" group-title="Radio",Radio Digital Romania
-http://radio.sonicpanel.ro:8058/stream
+https://n02.radiojar.com/8q8770pucfhvv
 
 #EXTINF:-1 tvg-name="Radio Dreams Dance" group-title="Radio",Radio Dreams Dance Romania
 http://radiodreams.g1.ro:3390/radiodreams.g1.ro
@@ -87,11 +81,8 @@ http://radiodreams.g1.ro:3399/radiodreams.g1.ro
 #EXTINF:-1 tvg-name="Radio Etalon" group-title="Radio",Radio Etalon
 http://asculta.radioetalon.ro:8030/stream
 
-#EXTINF:-1 tvg-name="Radio Fibra" group-title="Radio",Radio Fibra Romania
-http://live.dancemusic.ro:7000/stream
-
 #EXTINF:-1 tvg-name="Radio FUNKY Dance" group-title="Radio",Radio FUNKY Dance Romania
-http://dance.radiofunky.ro:7500
+https://radio.sonicpanel.ro/7500/stream
 
 #EXTINF:-1 tvg-name="Radio Pro-B" group-title="Radio",Radio Pro-B
 https://live.radioprob.ro/8888/live
