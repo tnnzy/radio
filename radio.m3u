@@ -4,7 +4,7 @@
 http://ssl.radios.show:8040/stream
 
 #EXTINF:-1 tvg-name="Radio Cafe" group-title="Radio",Radio Cafe
-http://live.radiocafe.ro:8048/live.aac
+https://live.radiocafe.ro
 
 #EXTINF:-1 tvg-name="Deep House Radio" group-title="Radio",Deep House Radio
 http://live.dancemusic.ro:7000/stream
