@@ -67,7 +67,10 @@ https://free.rcast.net/400
 https://asculta.ascultatare.ro/8042/stream
 
 #EXTINF:-1 tvg-name="Radio Bandit" group-title="Radio",Radio Bandit Romania
-https://pro.radiobandit.ro/listen/bandit
+http://pro.radiobandit.ro/listen/bandit/stream.mp3
+
+#EXTINF:-1 tvg-name="Radio Bandit 90" group-title="Radio",Radio Bandit Romania 90
+http://pro.radiobandit.ro/listen/bandit90/radio.mp3
 
 #EXTINF:-1 tvg-name="Radio Deep" group-title="Radio",Radio Deep Romania
 https://n02.radiojar.com/8q8770pucfhvv
