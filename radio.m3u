@@ -7,7 +7,7 @@ http://ssl.radios.show:8040/stream
 https://live.radiocafe.ro
 
 #EXTINF:-1 tvg-name="Deep House Radio" group-title="Radio",Deep House Radio
-http://live.dancemusic.ro:7000/stream
+https://streaming-01.xtservers.com:7000/encoder.mp3
 
 #EXTINF:-1 tvg-name="Sunfm" group-title="Radio",Sunfm
 https://live.radiosun.ro/sunfm
