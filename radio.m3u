@@ -98,3 +98,6 @@ https://live.radioprob.ro/8888/live
 
 #EXTINF:-1 tvg-name="Radio Romance 21 Italo" group-title="Radio",Radio Romance 21 Italo
 https://live.radioromance21.ro:9950/stream
+
+#EXTINF:-1 tvg-name="Radio Condor" group-title="Radio",Radio Condor
+https://radiocondor.ro:6303/play
