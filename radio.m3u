@@ -37,7 +37,7 @@ https://azuralive.streams.ovh/listen/radioaltfel/radio.mp3
 https://live.magicfm.ro/magic.party.mix
 
 #EXTINF:-1 tvg-name="Manele Premium" group-title="Radio",Manele Premium
-http://live.adradio.ro:8894/128
+https://stream.adradio.ro/mp128
 
 #EXTINF:-1 tvg-name="MegaHit" group-title="Radio",MegaHit
 https://air.broadcastinggroup.ro/MegaHit
