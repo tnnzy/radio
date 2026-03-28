@@ -45,6 +45,9 @@ https://air.broadcastinggroup.ro/MegaHit
 #EXTINF:-1,Radio Popular Oldies
 https://oldies.radiopopular.ro:8008/;
 
+#EXTINF:-1,Mike Riverra's ClubMix Radio
+http://live.radioclubmix.ro:9999/stream
+
 #EXTINF:-1,BadRock Hard&Heavy
 https://play-radio0.jump.bg:7049/live
 
