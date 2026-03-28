@@ -72,9 +72,6 @@ http://pro.radiobandit.ro/listen/bandit/stream.mp3
 #EXTINF:-1 tvg-name="Radio Bandit 90" group-title="Radio",Radio Bandit Romania 90
 http://pro.radiobandit.ro/listen/bandit90/radio.mp3
 
-#EXTINF:-1 tvg-name="Radio Deep" group-title="Radio",Radio Deep Romania
-https://n02.radiojar.com/8q8770pucfhvv
-
 #EXTINF:-1 tvg-name="Radio Dreams Dance" group-title="Radio",Radio Dreams Dance Romania
 http://radiodreams.g1.ro:3390/radiodreams.g1.ro
 
