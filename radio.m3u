@@ -12,8 +12,8 @@ https://streaming-01.xtservers.com:7000/encoder.mp3
 #EXTINF:-1 tvg-name="Sunfm" group-title="Radio",Sunfm
 https://live.radiosun.ro/sunfm
 
-#EXTINF:-1 tvg-name="Megarockradio" group-title="Radio",Megarockradio
-https://stream6.megarockradio.net/stream
+#EXTINF:-1,CHRONIX | AGGRESSION
+http://usa19.fastcast4u.com:5720/
 
 #EXTINF:-1 tvg-name="Radio Disco Mix" group-title="Radio",Radio Disco Mix
 https://play.discomix.ro/8002/stream
