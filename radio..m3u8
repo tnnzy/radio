@@ -72,6 +72,9 @@ http://pro.radiobandit.ro/listen/bandit/stream.mp3
 #EXTINF:-1,Radio Bandit Romania 90
 http://pro.radiobandit.ro/listen/bandit90/radio.mp3
 
+#EXTINF:-1,ChroniX | GRIT (Loud & Clear)
+http://usa19.fastcast4u.com:5950/
+
 #EXTINF:-1,Radio Dreams Dance Romania
 http://radiodreams.g1.ro:3390/radiodreams.g1.ro
 
