@@ -101,7 +101,3 @@ https://live.radioromance21.ro:9950/stream
 
 #EXTINF:-1,Radio Condor
 https://radiocondor.ro:6303/play
-
-#EXTINF:-1 tvg-name="Deep House Radio" group-title="Radio Online",Deep House Radio
-https://streaming-01.xtservers.com:7000/encoder.mp3
-
