@@ -102,9 +102,6 @@ https://live.radioromance21.ro:9950/stream
 #EXTINF:-1,Radio Condor
 https://radiocondor.ro:6303/play
 
-#EXTM3U
 #EXTINF:-1 tvg-name="Deep House Radio" group-title="Radio Online",Deep House Radio
 https://streaming-01.xtservers.com:7000/encoder.mp3
 
-#EXTINF:-1 tvg-name="Alt Post" group-title="Radio Online",Nume Post Radio 2
-https://link-catre-alt-stream.mp3
