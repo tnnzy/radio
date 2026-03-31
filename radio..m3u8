@@ -101,3 +101,6 @@ https://live.radioromance21.ro:9950/stream
 
 #EXTINF:-1,Radio Condor
 https://radiocondor.ro:6303/play
+
+#EXTINF:-1,Radiobestdance.ro
+https://sonicssl.namehost.ro:10982/;/stream
